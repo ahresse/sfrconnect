@@ -10,9 +10,6 @@
 # challenge: part of POST data to be sent
 # nasid: hotspot's MAC address (part of location)
 # mac: client's MAC address (part of location)
-# uamport: same here
-# uamip: same here
-# mode, channel: ...
 
 USERNAME=${1}
 PASSWORD=${2}
